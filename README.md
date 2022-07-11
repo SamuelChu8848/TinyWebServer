@@ -18,4 +18,4 @@ g++ *.cpp -pthread
 	* Chrome
 	* Edge
 	* 其他浏览器暂无测试
-
+> * [代码详细注释版本](https://github.com/SamuelChu8848/TinyWebServe_with_Code_Comments)

@@ -19,4 +19,5 @@ g++ *.cpp -pthread
 	* Edge
 	* 其他浏览器暂无测试
 * [代码详细注释版本](https://github.com/SamuelChu8848/TinyWebServe_with_Code_Comments)
-* 流程图\n![avatar](https://github.com/SamuelChu8848/MSVM_Python/blob/master/Pictures/%E5%9B%BE%E7%89%871.png)
+* 流程图
+* ![avatar](https://github.com/SamuelChu8848/TinyWebServer/blob/master/resourses/images/image4.png)
